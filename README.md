@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdDonlon.
 - 👀 My interests include applied mathematics, data science, and machine learning.
-- 🌱 I’m currently a PhD student at TU Dublin, Ireland.
+- 🌱 I’m currently a graduate research student in applied mathematics at TU Dublin, Ireland.
 - 💞️ I’m looking to collaborate on projects involving applications of applied mathematics, mathematical modelling and data science.
 - 📫 How to reach me: @Ed_Donlon on Twitter.
 
